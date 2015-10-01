@@ -323,7 +323,7 @@ print
 firstPairs=directoryStructureInitializer()
 
 # 1. analysis pipeline
-#pipeline(firstPairs)
+pipeline(firstPairs)
 
 # 2. post hoc analysis
 print
